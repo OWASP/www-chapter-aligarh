@@ -1,2 +1,2 @@
 ### Leaders
-* [Mohd Anwar Jamal Farz](mailto:anwarjamal.faiz@owasp.org)
+* [Mohd Anwar Jamal Faiz](mailto:anwarjamal.faiz@owasp.org)
