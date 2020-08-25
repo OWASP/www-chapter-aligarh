@@ -10,20 +10,21 @@ region: Asia, Aligarh, AMU, India
 
 This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP). <br/>
 
-Short link for sharing and easy to remember Wiki Page - https://bit.ly/2EzbnwG <br/><br/>
+Short link for sharing and easy to remember - https://bit.ly/2EzbnwG <br/><br/>
 
 ## Social Media: <br/>
 Google Group: This is the official Google group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://groups.google.com/g/owasp-aligarh-chapter <br/>
 
-Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or download the Zoom App. <br/>
+Facebook group: https://www.facebook.com/groups/2795458137222902 <br/>
 
-Facebook Page: This is the official Facebook group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://www.facebook.com/groups/2795458137222902 <br/><br/>
+Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or download the Zoom App. <br/><br/>
 
 Region: Aligarh, UP, India.
 
 
 ## Welcome
 This Chapter will motivate our group members to inculcate the best and secure software development practices in their endeavors. Identifying CVEs and being prepared is the key. We welcome students, graduates, academics and professionals.
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
