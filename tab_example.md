@@ -1,11 +1,16 @@
 ---
-title: Example
-layout:  null
-tab: true
-order: 1
-tags: example-tag
+
+layout: col-sidebar
+title: OWASP Aligarh
+tags: owasp, aligarh, india, security, software, developemnt
+region: Asia, Aligarh, AMU, India
+
 ---
 
-## Example
+## Get engaged
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Google Group: This is the official Google group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://groups.google.com/g/owasp-aligarh-chapter <br/><br/>
+
+Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or download the Zoom App. <br/><br/>
+
+Facebook Page: This is the official Facebook group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://www.facebook.com/groups/2795458137222902 <br/><br/>
