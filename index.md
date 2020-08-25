@@ -9,20 +9,22 @@ region: Asia
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP).
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Short link for sharing and easy to remember Wiki Page - https://bit.ly/2EzbnwG
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+Google Group: This is the official Google group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://groups.google.com/g/owasp-aligarh-chapter
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or download the Zoom App.
 
-region: This is the region you are in according to our data
+Facebook Page: This is the official Facebook group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://www.facebook.com/groups/2795458137222902
+
+Region: Aligarh, UP, India.
 
 </div>
 
 ## Welcome
-Include some information here about your chapter
+This Chapter will motivate our group members to inculcate the best and secure software development practices in their endeavors. Identifying CVEs and being prepared is the key. We welcome students, graduates, academics and professionals.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
