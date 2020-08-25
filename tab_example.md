@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Aligarh
+title: Get engaged
 tags: owasp, aligarh, india, security, software, developemnt
 region: Asia, Aligarh, AMU, India
 order: 1
