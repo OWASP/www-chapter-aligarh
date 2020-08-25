@@ -7,7 +7,6 @@ region: Asia, Aligarh, AMU, India
 
 ---
 
-<div style='color:red;'>
 
 This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP). <br/>
 
@@ -22,7 +21,6 @@ Facebook Page: This is the official Facebook group of the Aligarh Chapter for Op
 
 Region: Aligarh, UP, India.
 
-</div>
 
 ## Welcome
 This Chapter will motivate our group members to inculcate the best and secure software development practices in their endeavors. Identifying CVEs and being prepared is the key. We welcome students, graduates, academics and professionals.
