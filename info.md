@@ -1,7 +1,9 @@
 ### Aligarh Information
-* Provide Group Information
+* This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP).
+
+Short link for sharing and easy to remember Wiki Page - https://bit.ly/2EzbnwG
 
 ### Social Links
-* [Meetup](#)
-
-
+* [Google group](https://groups.google.com/g/owasp-aligarh-chapter)
+* [Facebook group] (https://www.facebook.com/groups/2795458137222902)
+ 
