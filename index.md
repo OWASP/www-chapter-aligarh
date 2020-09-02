@@ -3,8 +3,7 @@
 layout: col-sidebar
 title: OWASP Aligarh
 tags: owasp, aligarh, india, security, software, developemnt
-region: Asia, Aligarh, AMU, India
-
+region: Asia
 ---
 
 
