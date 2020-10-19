@@ -26,9 +26,10 @@ We decided to have a group meeting every quarter on 15th. This will occur four t
 
 The chapter details including the Facebook group and Google group etc is updated on OWASP site.
 
-### 15 October 2020 [Future date]
+### 15 October 2020
 
 Planned ONLINE conference/webinar along with discussion related to Software best practices. Focus on OWASP Top 10.
+This is potponed and shall happen on 25th.
 
 ### 15 January 2020 [Future date]
 
