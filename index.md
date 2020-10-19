@@ -38,6 +38,4 @@ Talks at OWASP Hyderabad Chapter Events
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Hyderabad Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
-
-`anwarjamal.faiz@owasp.org`
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Hyderabad Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail: `anwarjamal.faiz@owasp.org`
