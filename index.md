@@ -2,7 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Aligarh
-tags: owasp, aligarh, india, security, software, developemnt
+site_side: true
+tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, anwar jamal faiz, aligarh muslim university, UPSEEE, Engineering, ZHCET, penetration testing, offensive hacker, ethical, national, international, cyber , forensics, crime, mitigation
 region: Asia
 ---
 
