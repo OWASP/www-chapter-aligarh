@@ -1,11 +1,9 @@
 ---
-
-layout: col-sidebar
 title: Get engaged
+displaytext: Get engaged
 tags: owasp, aligarh, india, security, software, developemnt
 region: Asia, Aligarh, AMU, India
-order: 1
-
+order: 2
 ---
 
 ## Get engaged
