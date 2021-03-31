@@ -1,12 +1,9 @@
 ---
-
-title: Leaders
+title: leaders
 displaytext: Leaders OWASP
-layout:  null
 tab: true
 order: 1
 tags: owasp,amu,aligarh,muslim,university,secure,software,development,aicte,up,love,india, zhcet,anwar jamal faiz, w3lc,amu
-
 ---
 
 
