@@ -1,12 +1,13 @@
----
+------
 
 layout: col-sidebar
 title: OWASP Aligarh
 site_side: true
 tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, anwar jamal faiz, aligarh muslim university, UPSEEE, Engineering, ZHCET, penetration testing, offensive hacker, ethical, national, international, cyber , forensics, crime, mitigation
 region: Asia
----
+country: India
 
+---
 
 This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP). <br/>
 
@@ -19,7 +20,7 @@ Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or down
 Google Meet: https://meet.google.com/tcu-jqaq-ohk
 [Facebook Group](https://www.facebook.com/groups/2795458137222902) <br/>
 
-Region: Aligarh, UP, India.
+
 
 
 ## Meet Up: <br/>
