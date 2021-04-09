@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Aligarh
 site_side: true
-tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, anwar jamal faiz, aligarh muslim university, UPSEEE, Engineering, ZHCET, penetration testing, offensive hacker, ethical, national, international, mohd anwar jamal faiz, ieee, w3lc, cyber , forensics, crime, mitigation, samreen faiz, dr samreen f, OWASP-Aligarh
+tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, anwar jamal faiz, aligarh muslim university, UPSEEE, Engineering, ZHCET, penetration testing, offensive hacker, ethical, national, international, mohd anwar jamal faiz, ieee, w3lc, cyber , forensics, crime, mitigation, samreen faiz, dr samreen f, OwaspAligarh
 region: Asia
 currency: INR
 meetup-group: OWASP-Aligarh-Meetup-Group
