@@ -2,7 +2,7 @@
 
 title: Meetings 
 displaytext: Current Meetings
-tags: owasp, aligarh, india, security, software, developemnt
+tags: owasp, aligarh, india, security, software, developemnt, OwaspAligarh
 region: Asia, Aligarh, AMU, India
 order: 4
 
