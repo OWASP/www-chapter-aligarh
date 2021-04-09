@@ -2,7 +2,6 @@
 
 title: Get engaged
 displaytext: Get engaged
-tags: owasp, aligarh, india, security, software, developemnt
 region: Asia, Aligarh, AMU, India
 tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, anwar jamal faiz, aligarh muslim university, UPSEEE, Engineering, ZHCET, penetration testing, offensive hacker, ethical, national, international, mohd anwar jamal faiz, ieee, w3lc, cyber , forensics, crime, mitigation, samreen faiz, dr samreen f, OwaspAligarh
 order: 2
