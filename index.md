@@ -14,23 +14,17 @@ country: India
 This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP). <br/>
 OWASP is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP’s open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP’s meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. The chapter leaders are Mohd Anwar Jamal Faiz and and Dr. Samreen F.
 This Chapter will motivate our group members to inculcate the best and secure software development practices in their endeavors. Identifying CVEs and being prepared is the key. We welcome students, graduates, academics and professionals.
-
-Short link for sharing and easy to remember - https://bit.ly/2EzbnwG <br/><br/>
-
+<br/>
 
 ## Social Media:
 <br/>
 Google Group: This is the official Google group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://groups.google.com/g/owasp-aligarh-chapter <br/>
+Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or download the Zoom App. <br/>
+Google Meet: https://meet.google.com/tcu-jqaq-ohk <br/>
+Our Facebook Group:(https://www.facebook.com/groups/2795458137222902) <br/>
+<br/><br/>
 
-Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or download the Zoom App. <br/><br/>
-Google Meet: https://meet.google.com/tcu-jqaq-ohk
-[Facebook Group](https://www.facebook.com/groups/2795458137222902) <br/>
-
-
-## Meet Up:
-<br/>
 Owasp Aligarh Meetup Group : https://www.meetup.com/OWASP-Aligarh-Meetup-Group/
-March 2021 Event/Webinar: https://www.meetup.com/OWASP-Aligarh-Meetup-Group/events/277128813/
 
 
 ## Participation
@@ -54,7 +48,8 @@ Talks at OWASP Aligarh Chapter Events
 {% include chapter_events.html group=page.meetup-group %}.
 
 <br/>
-
+Current and Past events can also be seen on MeetUp Group Page Events: https://www.meetup.com/OWASP-Aligarh-Meetup-Group/
+<br/>
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Hyderabad Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail: `anwarjamal.faiz@owasp.org`
 
 
