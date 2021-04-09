@@ -11,13 +11,36 @@ tags: owasp,aligarh,chapter,amu,love,india,w3lc,anwar,jamal faiz, OWASP-Aligarh
 
 # **Chapter News**
 
-### 20 May 2020 
+### 11 April 2021
 
-Chapter Access Granted and discussions with security enthusiasts.
+Cyber Crimes, Indian Law & OWASP - A Seminar by Industry experts and a Law PhD
+CYBER ATTACKS IN CURRENT INFORMATION TECHNOLOGY REGIME: THE LEGAL RECOURSE AND PROTECTION. In Subsequent talks we shall discuss how OWASP can help developers mitigate these risks.
+We shall also welcome new members. Plan new initiatives.
 
-### 22 May 2020
+### 28 March 2021
 
-Chapter Leader Voted in and OWASP was informed. The Page was updated.
+Discussion over OWASP Top 10
+This event was organised using MeetUp - https://www.meetup.com/OWASP-Aligarh-Meetup-Group/events/277128813/
+During the webinar we will go through the characteristics of the Top 10 most critical vulnerabilities. A brief overview shall also be provided on how you can protect your system. 
+New Chapter Leader elected - Dr Samren F. Agenda for next meeting finalized.
+
+### 15 January 2020 
+
+Got access to MeetUp group and the page was all updated - https://www.meetup.com/OWASP-Aligarh-Meetup-Group
+Planned PHYSICAL conference/webinar along with discussion related to Software best practices.
+We will follow Covid-19 protocol and latest orders by the local government.
+
+
+### 15 October 2020
+
+Planned conference/webinar along with discussion related to Software best practices. Focus on OWASP Top 10.
+This was potponed and happened on 25th october in online mode.
+
+
+### 25 August 2020
+
+The chapter details including the Facebook group and Google group etc is updated on OWASP site.
+
 
 ### 15 August 2020
 
@@ -25,18 +48,16 @@ First non-official meet of OWASP enthusiasts held.
 We decided to have a group meeting every quarter on 15th. This will occur four times in a year:
 15th January, 15th April, 15th July, 15th October. 
 
-### 25 August 2020
 
-The chapter details including the Facebook group and Google group etc is updated on OWASP site.
+### 22 May 2020
 
-### 15 October 2020
+Chapter Leader Voted in and OWASP was informed. The Page was updated.
+We got access to github and Mohd Anwar Jamal Faiz created the website for OWASP Aligarh.
 
-Planned ONLINE conference/webinar along with discussion related to Software best practices. Focus on OWASP Top 10.
-This is potponed and shall happen on 25th.
 
-### 15 January 2020 [Future date]
+### 20 May 2020 
 
-Planned PHYSICAL conference/webinar along with discussion related to Software best practices.
-We will follow Covid-19 protocol and latest orders by the local government.
+Chapter Access Granted and discussions with security enthusiasts.
+
 
 
