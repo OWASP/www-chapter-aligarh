@@ -15,6 +15,7 @@ This is the official OWASP Page for Aligarh Chapter for Open Web Application Sec
 
 Short link for sharing and easy to remember - https://bit.ly/2EzbnwG <br/><br/>
 
+{% include chapter_events.html group=page.meetup-group %}.
 
 ## Social Media:
 <br/>
