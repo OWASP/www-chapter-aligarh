@@ -1,19 +1,21 @@
-------
-
+---
 layout: col-sidebar
 title: OWASP Aligarh
 site_side: true
 tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, anwar jamal faiz, aligarh muslim university, UPSEEE, Engineering, ZHCET, penetration testing, offensive hacker, ethical, national, international, cyber , forensics, crime, mitigation
 region: Asia
+currency: INR
+meetup-group: OWASP-Aligarh-Meetup-Group
 country: India
-
 ---
 
 This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP). <br/>
 
 Short link for sharing and easy to remember - https://bit.ly/2EzbnwG <br/><br/>
 
-## Social Media: <br/>
+
+## Social Media:
+<br/>
 Google Group: This is the official Google group of the Aligarh Chapter for Open Web Application Security Project (OWASP) - https://groups.google.com/g/owasp-aligarh-chapter <br/>
 
 Zoom Meeting: We will use Zoom or Slack for meetups. Use www.zoom.us and/or download the Zoom App. <br/><br/>
@@ -22,31 +24,35 @@ Google Meet: https://meet.google.com/tcu-jqaq-ohk
 
 
 
-
-## Meet Up: <br/>
+## Meet Up:
+<br/>
 Owasp Aligarh Meetup Group : https://www.meetup.com/OWASP-Aligarh-Meetup-Group/
 March 2021 Event/Webinar: https://www.meetup.com/OWASP-Aligarh-Meetup-Group/events/277128813/
 
 
 ## Welcome
+<br/>
 This Chapter will motivate our group members to inculcate the best and secure software development practices in their endeavors. Identifying CVEs and being prepared is the key. We welcome students, graduates, academics and professionals.
 
 
 ## Participation
+<br/>
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
+
 ## Collaboration
+<br/>
 OWASP Aligarh, India under the leadership of Mohd. Anwar Jamal Faiz is dedicated to introduce, advocate and broaden the knowledge of application security and tools to the students and practitioners in the North India and especially to the students of, but not limited to, the Aligarh Muslim University, India.
 We will hold talks with IEEE members, Industry experts, OWASP leaders, Faculty, Students and professionals in the field of Software development and Security practices.
 
 
 Talks at OWASP Aligarh Chapter Events
-----------------------------------------
-
+---------------------------------------
+<br/>
 #### Call For Speakers
-
+<br/>
 Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Hyderabad Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail: `anwarjamal.faiz@owasp.org`
