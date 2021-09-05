@@ -11,6 +11,31 @@ tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, an
 
 # **Chapter News**
 
+### Sunday, 26 December 2021
+
+OWASP Chapter Talk Series - Crypto currencies and the Secure coding practices
+https://www.meetup.com/OWASP-Aligarh-Meetup-Group/events/278656640/
+
+Welcome new members. 
+Panel discussion
+Plan new initiatives for Campus immersion.
+
+### Sunday, 5 September 2021
+
+Security & Pen Test Tools Demo with emphasis on Payment & bank Industry
+https://www.meetup.com/OWASP-Aligarh-Meetup-Group/events/278647581/
+
+We shall also welcome new members. 
+Plan new initiatives.
+Membership increase brainstorming
+
+### Sunday, 6 June 2021
+
+Security Issues in Financial World & Handling First in OWASP Top 10 - Injection
+We shall also welcome new members. 
+Plan new initiatives.
+https://www.meetup.com/OWASP-Aligarh-Meetup-Group/events/277499602/
+
 ### 11 April 2021
 
 Cyber Crimes, Indian Law & OWASP - A Seminar by Industry experts and a Law PhD
