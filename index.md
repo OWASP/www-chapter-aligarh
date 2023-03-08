@@ -1,16 +1,15 @@
 ---
-
+ 
 layout: col-sidebar
 title: OWASP Aligarh
 tags: owasp, aligarh, india, security, software, developemnt, majftech, w3lc, anwar jamal faiz, aligarh muslim university, UPSEEE, Engineering, ZHCET, penetration testing, offensive hacker, ethical, national, international, mohd anwar jamal faiz, ieee, w3lc, cyber , forensics, crime, mitigation, samreen faiz, dr samreen f, OwaspAligarh
 region: Asia
 meetup-group: OWASP-Aligarh-Meetup-Group
 
-
 ---
 
 This is the official OWASP Page for Aligarh Chapter for Open Web Application Security Project (OWASP). <br/>
-OWASP is a worldwide not-for-profit organisation focused on improving the security of software. With over 200 local Chapters worldwide and 45,000+ volunteers OWASP’s open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP’s meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. The chapter leaders are Mohd Anwar Jamal Faiz and and Dr. Samreen F.<br/><br/>
+OWASP is a worldwide not-for-profit organisation focused on improving the security of software. With over 250 local Chapters worldwide and 45,000+ volunteers OWASP’s open community is dedicated to enabling organisations and individuals to develop and maintain applications that can be trusted. OWASP’s meet-ups, tools, standards, guidelines, documents and forums are free and open to anyone interested in improving application security. The chapter leaders are Mohd Anwar Jamal Faiz and and Dr. Samreen F.<br/><br/>
 This Chapter will motivate our group members to inculcate the best and secure software development practices in their endeavors. Identifying CVEs and being prepared is the key. We welcome students, graduates, academics and professionals.
 <br/>
 
