@@ -34,9 +34,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 
 ## Collaboration
-
-OWASP Aligarh, India under the leadership of Mohd. Anwar Jamal Faiz is dedicated to introduce, advocate and broaden the knowledge of application security and tools to the students and practitioners in the North India and especially to the students of, but not limited to, the Aligarh Muslim University, India.
-We will hold talks with IEEE members, Industry experts, OWASP leaders, Faculty, Students and professionals in the field of Software development and Security practices.
+Mohd. Anwar Jamal Faiz is dedicated to introduce, advocate and broaden the knowledge of application security and tools to the students and practitioners in the North India and especially to the students of, but not limited to, the Aligarh Muslim University, India. We will hold talks with IEEE members, Industry experts, OWASP leaders, Faculty, Students and professionals in the field of Software development and Security practices.
 
 
 Talks at OWASP Aligarh Chapter Events
